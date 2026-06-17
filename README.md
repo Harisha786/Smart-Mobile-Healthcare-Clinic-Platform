@@ -43,8 +43,4 @@ Smart Mobile Healthcare Clinic Platform is an AI-powered healthcare web applicat
 * Responsive Design
 * Project Development
 
-## Author
 
-**Harisha Parveen N**
-AI & Data Science Undergraduate
-GitHub: https://github.com/Harisha786
